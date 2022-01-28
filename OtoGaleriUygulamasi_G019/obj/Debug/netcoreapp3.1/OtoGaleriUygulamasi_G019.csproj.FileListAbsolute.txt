@@ -1,0 +1,41 @@
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.exe
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.deps.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.runtimeconfig.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.runtimeconfig.dev.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.dll
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.pdb
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.csproj.AssemblyReference.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.AssemblyInfoInputs.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.AssemblyInfo.cs
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.csproj.CoreCompileInputs.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.dll
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.pdb
+C:\Users\Siliconmade Academy\source\repos\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.genruntimeconfig.cache
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.exe
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.deps.json
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.runtimeconfig.json
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.runtimeconfig.dev.json
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.dll
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.pdb
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.csproj.AssemblyReference.cache
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.AssemblyInfoInputs.cache
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.AssemblyInfo.cs
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.csproj.CoreCompileInputs.cache
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.dll
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.pdb
+C:\Users\Kaynar\Documents\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.genruntimeconfig.cache
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.exe
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.deps.json
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.runtimeconfig.json
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.runtimeconfig.dev.json
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.dll
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\bin\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.pdb
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.csproj.AssemblyReference.cache
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.AssemblyInfoInputs.cache
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.AssemblyInfo.cs
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.csproj.CoreCompileInputs.cache
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.dll
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.pdb
+C:\Users\erkan\Desktop\Yeni klasör (2)\OtoGaleriUygulamasi_G019\OtoGaleriUygulamasi_G019\obj\Debug\netcoreapp3.1\OtoGaleriUygulamasi_G019.genruntimeconfig.cache
